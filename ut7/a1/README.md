@@ -3,6 +3,8 @@
 
 ### Objetivo de la práctica
 
+Julian/Peter
+
 El objetivo de esta práctica es **analizar un programa que funciona correctamente pero cuya calidad de código es mejorable**.
 
 Durante la sesión se realizará un **análisis colectivo del código para detectar “malos olores” (code smells)**. Estos son indicios de que el diseño del programa podría mejorarse mediante técnicas de refactorización.
