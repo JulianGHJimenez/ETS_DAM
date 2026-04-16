@@ -47,7 +47,7 @@ La variable c podría cambiarse por ”cantidad”.
 
 - ¿Se repite código en diferentes partes del programa?
 
-Si, debido a que en el momento de obtener el subtotal del código se define una variable para este y justo después crea una función para obtener el subtotal. Podemos eliminar el if e implementar dos operaciones una “CalcularSubtotal” y “ImprimirDetallesProducto”.
+Se podira decir que si, debido a que el subtotal es una variable definida, y justo despues se aplica en una funcion no tiene ningun sentido.
 
 - ¿Hay **números que aparecen directamente en el código sin explicación**?
 
