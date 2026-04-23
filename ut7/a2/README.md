@@ -193,11 +193,11 @@ Facilita futuras mejoras (ej: impuestos, descuentos adicionales, interfaz gráfi
 ### 8. **Legibilidad general**
 
 * **Original:** funcional pero básico.
-* **Corregido:** sigue buenas prácticas de Java profesional.
+* **Corregido:** sigue buenas prácticas de Java profesional(Ojala serlo).
 
 ---
 
-##  Conclusión para tu presentación
+##  Conclusión
 
 El código original **funciona**, pero el corregido:
 
